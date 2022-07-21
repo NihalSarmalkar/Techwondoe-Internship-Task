@@ -1,5 +1,5 @@
 # Techwondoe Intership Task
-This is a MERN stack website.
+MERN stack website with CRUD functionalities.
 
 ## Tech Stack
 

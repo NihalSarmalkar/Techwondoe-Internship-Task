@@ -133,7 +133,7 @@ export default function Post({ post }) {
         style={{borderRadius:"10px"}}
 
       >
-        <DialogTitle id="alert-dialog-title">Submitted Case</DialogTitle>
+        <DialogTitle id="alert-dialog-title">Update Details</DialogTitle>
         <DialogContent>
         <div className="share">
       <div className="shareWrapper">
